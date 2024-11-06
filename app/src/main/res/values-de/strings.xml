@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stolper Steine Kiel Foss</string>
+    <string name="the_location_could_not_be_identified">Der Standort konnte nicht ermittelt werden.\\n</string>
+    <string name="this_app_is_for_android_8_and_higher">Diese App wurde für Android 8 und höher entwickelt.</string>
+    <string name="marker_title">Stolperstein</string>
+    <string name="location">Standort</string>
+    <string name="hereiam">Hier bin ich.</string>
+</resources>

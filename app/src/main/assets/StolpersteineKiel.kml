@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+		<name>Jensendamm 6 </name>
+		<description> -> Mainzer, Bruno Max</description>
+	<Point>
+		<coordinates>10.138947020467437,54.3251838</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Jungmannstraße 70 a</name>
+		<description> -> Feldmann, Mendel -> Feldmann, geb. Weber-Lakritz, Chaja -> Feldmann, Dina -> Feldmann, Otto -> Feldmann, Zita</description>
+	<Point>
+		<coordinates>10.1319491,54.3317895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Sophienblatt 75</name>
+		<description> -> Hahn, Hugo</description>
+	<Point>
+		<coordinates>10.12661864147468,54.30949635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Königsweg 1</name>
+		<description> -> Karlsberg, geb. Berghoff, Regina</description>
+	<Point>
+		<coordinates>10.128609628571432,54.317705000000004</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Waitzstraße 58 a </name>
+		<description> -> Henning, Herbert</description>
+	<Point>
+		<coordinates>10.132044024107616,54.33561275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Knooper Weg 48a</name>
+		<description> -> Metzger, geb. Krapp, Ida -> Metzger, Isaak -> Metzger, Josef Baruch -> Metzger, Leo -> Metzger, Toni</description>
+	<Point>
+		<coordinates>10.1303655,54.3356582</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Waitzstraße 93</name>
+		<description> -> Bauer, Harry-Heinz -> Lüddeke, Ingeborg</description>
+	<Point>
+		<coordinates>10.128106648975614,54.335809049999995</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Muhliusstraße 77a</name>
+		<description> -> Fischer, Malie -> Fischer, Shirley Lotte -> Fischer, Recha -> Fischer, Eduard</description>
+	<Point>
+		<coordinates>10.130544202023412,54.3250457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Theodor-Heuss-Ring 79</name>
+		<description> -> Goldstein, Wilhelm</description>
+	<Point>
+		<coordinates>10.124400601816507,54.30386115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Rankestraße 1</name>
+		<description> -> Frank, Benzion</description>
+	<Point>
+		<coordinates>10.127915575252526,54.340187400000005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Preußerstraße 7</name>
+		<description> -> Cohn, Julius -> Cohn, Selma</description>
+	<Point>
+		<coordinates>10.1336521,54.328928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Dänische Straße 36</name>
+		<description> -> Friedländer, geb. Stern, Franziska -> Friedländer, Georg</description>
+	<Point>
+		<coordinates>10.141415751519794,54.3242144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Küterstraße 28</name>
+		<description> -> Bachner, David</description>
+	<Point>
+		<coordinates>10.1382817,54.323441</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Westring 202</name>
+		<description> -> Nielsen, Oskar</description>
+	<Point>
+		<coordinates>10.111761162030586,54.3214896</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Gerhardstraße 64 </name>
+		<description> -> Theede, Heinrich</description>
+	<Point>
+		<coordinates>10.13580885,54.33685925</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Hamburger Chaussee 199</name>
+		<description> -> Rosenstein, Emanuel</description>
+	<Point>
+		<coordinates>10.105862612583568,54.2979922</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Wilhelminenstraße 27</name>
+		<description> -> Schnell, Moritz -> Schnell, Else -> Schnell, Herta</description>
+	<Point>
+		<coordinates>10.1320903,54.3278066</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Holtenauer Straße 37</name>
+		<description> -> Wronker, Gertrud</description>
+	<Point>
+		<coordinates>10.1317113,54.3311933</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Kronshagener Weg 12</name>
+		<description> -> Domowitz, Lotte</description>
+	<Point>
+		<coordinates>10.125062621358008,54.3216281</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Gutenbergstraße 66</name>
+		<description> -> Wysocki, Max</description>
+	<Point>
+		<coordinates>10.11834,54.3325262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Eichhofstraße 12</name>
+		<description> -> Eggerstedt, Otto</description>
+	<Point>
+		<coordinates>10.10999674821641,54.3330413</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Mittelstraße 27</name>
+		<description> -> Hirsch, Mendel Harry</description>
+	<Point>
+		<coordinates>10.1299125,54.329115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Holtenauer Straße 32</name>
+		<description> -> Pietsch, Anneliese -> Pietsch, Emil -> Pietsch, Roseliese</description>
+	<Point>
+		<coordinates>10.132475980333332,54.33057825</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Dänische Straße 30</name>
+		<description> -> Ostwald, Sophie -> Ostwald, Toni</description>
+	<Point>
+		<coordinates>10.1411333,54.3241401</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Kleiner Kuhberg 26</name>
+		<description> -> Czapnik, Mendel -> Markus-Bard, geb. Bradspies, Anna -> Markus, Osias</description>
+	<Point>
+		<coordinates>10.1309375,54.3214184</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Jungmannstraße 28</name>
+		<description> -> Voss, geb. Lippmann, Helene</description>
+	<Point>
+		<coordinates>10.13443082469605,54.33184915</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Forstweg 81</name>
+		<description> -> Fabian, Dr. Max</description>
+	<Point>
+		<coordinates>10.14297731532314,54.3421599</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Kaiserstraße 73</name>
+		<description> -> Karlsberg, Rolf Abel Wilhelm</description>
+	<Point>
+		<coordinates>10.146597854516349,54.30921475</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Sandkuhle 5</name>
+		<description> -> Ebner, geb. Locker, Cenia -> Ebner, Kuno -> Ebner, Cäcilie -> Ebner, Leo -> Ebner, Martin</description>
+	<Point>
+		<coordinates>10.127785433243318,54.319534399999995</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Hafenstraße 8</name>
+		<description> -> Engel, David Theodor -> Engel, geb. Meier, Minna</description>
+	<Point>
+		<coordinates>10.137434,54.3201069</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Kronshagener Weg 4</name>
+		<description> -> Buchen, geb. Landesmann, Rosa -> Buchen, Isaak -> Buchen, Edmund -> Buchen, Manfred</description>
+	<Point>
+		<coordinates>10.1255255,54.3213958</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Holtenauer Straße 103</name>
+		<description> -> Albers, Heinrich -> Salomon-Salberg, Rolf</description>
+	<Point>
+		<coordinates>10.13288784807823,54.33701215</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Ringstraße 36</name>
+		<description> -> Sandbank, geb. Bombach, Amalie -> Sandbank, Frieda -> Sandbank, Hermann -> Sandbank, Fanny -> Sandbank, Betty -> Sandbank, Wolf</description>
+	<Point>
+		<coordinates>10.12640881497175,54.3161822</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Preetzer Straße 212</name>
+		<description> -> Feybusch, Adolf</description>
+	<Point>
+		<coordinates>10.1626922,54.3026593</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Damperhofstraße 21</name>
+		<description> -> Grünbaum, geb. Ehrmann, Regina -> Grünbaum, Wolf Abraham -> Nagelberg, Leo -> Nagelberg, Anni -> Nagelberg, Alfred -> Ehrmann, geb. Feldmann, Rahel -> Reiss, geb. Nagelberg, Paula</description>
+	<Point>
+		<coordinates>10.1244848788633,54.32503035</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Faulstraße 41</name>
+		<description> -> Hirsch, Wolff Willy -> Hirsch, Hedwig Helene -> Hirsch, Wolf -> Hirsch, Heinz -> Hirsch, Martin -> Hirsch, Hertha</description>
+	<Point>
+		<coordinates>10.1371846,54.3241337</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Eggerstedtstraße 1</name>
+		<description> -> Marienfeld, Albrecht</description>
+	<Point>
+		<coordinates>10.1399686,54.3216932</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Adelheidstraße 26 </name>
+		<description> -> Offen, Hanna -> Glanz, Joachim -> Glanz, Markus -> Offen, geb. Appelberg, Taube -> Glanz, geb. Buchen, Esther -> Offen, Naftali</description>
+	<Point>
+		<coordinates>10.1256487,54.3206619</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Feldstraße 55a</name>
+		<description> -> Adler, Erika -> Fiebelmann, geb. Adler, Ruth -> Adler, Lotti -> Adler, geb. Einhorn, Ida -> Adler, Max</description>
+	<Point>
+		<coordinates>10.1396313,54.33721325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Yorckstraße 1a</name>
+		<description> -> Abramowicz, Leon -> Abramowicz, Else -> Abramowicz, Minna Lotte</description>
+	<Point>
+		<coordinates>10.1390759,54.3433905</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Wall 68 </name>
+		<description> -> Heuck, Christian</description>
+	<Point>
+		<coordinates>10.1418997,54.3214681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Rendsburger Landstraße 57</name>
+		<description> -> Guttmann, Erich</description>
+	<Point>
+		<coordinates>10.110381762464723,54.3056052</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Waisenhofstraße 34</name>
+		<description> -> Lieser, Ruchla -> Metzger, Adolf Isidor -> Lieser, geb. Strenger, Frimeta -> Metzger, geb. Klapper, Frymeta -> Metzger, Hermann</description>
+	<Point>
+		<coordinates>10.129001946142946,54.32327285</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Waisenhofstraße 39</name>
+		<description> -> Hansen, Minna</description>
+	<Point>
+		<coordinates>10.128576750000008,54.323181649999995</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Preußerstraße 10</name>
+		<description> -> Bertenthal, Simon -> Bertenthal, Martha -> Bertenthal, Ruth -> Bertenthal, geb. Berghoff, Sophie -> Bertenthal, David</description>
+	<Point>
+		<coordinates>10.134223992335095,54.329378649999995</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Stoschstraße 1</name>
+		<description> -> Haller-Munck, Hans-Ulrich -> Haller-Munck, geb. Munck, Paula -> Haller-Munck, Dr. Heinrich</description>
+	<Point>
+		<coordinates>10.149078871054126,54.31147985</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Niemannsweg 133</name>
+		<description> -> Liebreich, Aenne</description>
+	<Point>
+		<coordinates>10.148582712459984,54.34257065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Bartelsallee 4</name>
+		<description> -> Stier-Somlo, Klara</description>
+	<Point>
+		<coordinates>10.149699743009023,54.33903085</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Koldingstraße 4</name>
+		<description> -> Eppstein, Bernhard</description>
+	<Point>
+		<coordinates>10.136901614063039,54.3291766</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Kronshagener Weg 14 </name>
+		<description> -> Monheit, Pinkas -> Grubner, Simon -> Kurz, Grete -> Grubner, geb. Scharf, Debora -> Monheit, Mirla -> Grubner, Dina -> Grubner, Josef -> Monheit, geb. Grubner, Sarah -> Kurz, geb. Panzanowa, Pauline -> Grubner, Shaja A. -> Grubner, geb. Zollmann, Regina Ryfka</description>
+	<Point>
+		<coordinates>10.123656942232355,54.321924</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Holtenauer Straße 13</name>
+		<description> -> Steilberger, Dr. Carl Martin -> Steilberger, geb. Zuchholdt, Marie Charlotte Eveline</description>
+	<Point>
+		<coordinates>10.1323835,54.3293834</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Annenstraße 61</name>
+		<description> -> Schlumper, Adolf -> Schlumper, Josef -> Schlumper, Samuel -> Schlumper, geb. Ruj, Rosa -> Schlumper, Karl</description>
+	<Point>
+		<coordinates>10.130227399999997,54.33135795</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Holtenauer Straße 15</name>
+		<description> -> Daltrop, Joseph</description>
+	<Point>
+		<coordinates>10.1322581,54.3294843</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Hummelwiese 1-3</name>
+		<description> -> Rumpf, geb. Hertz, Erna Tana</description>
+	<Point>
+		<coordinates>10.1273558,54.3112984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Adelheidstraße 22</name>
+		<description> -> Landesmann, Arthur</description>
+	<Point>
+		<coordinates>10.125474497250122,54.32033095</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Kanalstraße 41</name>
+		<description> -> Mahlstedt, Horst</description>
+	<Point>
+		<coordinates>10.142753203330367,54.3698975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Kronshagener Weg 37</name>
+		<description> -> Lenkowicz, Abraham Samuel</description>
+	<Point>
+		<coordinates>10.119453420463884,54.32320815</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Langenbeckstraße 17</name>
+		<description> -> Richter, Karl-Friedrich</description>
+	<Point>
+		<coordinates>10.1108643,54.3224224</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Scharnhorststraße 17</name>
+		<description> -> Blumenthal, geb. Cahn, Irma -> Blumenthal, Isidor -> Berghoff, geb. Blumenthal, Liselotte</description>
+	<Point>
+		<coordinates>10.1379146,54.344345</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Sternstraße 16</name>
+		<description> -> Fraenkel, geb. Gutwirt, Taube -> Wilkenfeld, Arnold -> Wilkenfeld, geb. Fraenkel, Bertha -> Wilkenfeld, Kalman</description>
+	<Point>
+		<coordinates>10.122711487862766,54.3240254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Kaiserstraße 92</name>
+		<description> -> Wilke, Wilhelm</description>
+	<Point>
+		<coordinates>10.1444278,54.3082054</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Holtenauer Straße 59a</name>
+		<description> -> Schumm, Dr. Friedrich -> Schumm, geb. Moll, Hedwig Martha -> Schumm, Georg</description>
+	<Point>
+		<coordinates>10.132535,54.3333278</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Exerzierplatz 25</name>
+		<description> -> Wallach, geb. Tichauer, Dorothea -> Wallach, Hugo -> Wallach, Ursula</description>
+	<Point>
+		<coordinates>10.125468705258829,54.32097345</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Griesingerstraße 4</name>
+		<description> -> Raabe, Walter</description>
+	<Point>
+		<coordinates>10.11377031875297,54.3235619</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Kleiner Kuhberg 28 </name>
+		<description> -> Weber, Alter -> Weber, geb. Lakritz, Mirel -> Weber-Lakritz, Simcha -> Weber, Schoje Oskar -> Winzelberg, Samuel -> Winzelberg, geb. Otter, Chana -> Winzelberg, Rosa -> Winzelberg, Frieda -> Winzelberg, Josef -> Weidmann, David -> Weidmann, geb. Weber-Lakritz, Erna Recha -> Weidmann, Leo -> Weidmann, Arnold -> Weidmann, Ruth -> Weidmann, Rosa -> Weitz, geb. Stempel, Golda -> Weitz, Minna -> Weitz, Leo -> Weitz, Jakob</description>
+	<Point>
+		<coordinates>10.13077949153212,54.32150465</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Herzog-Friedrich-Straße 93</name>
+		<description> -> Engel, Herbert</description>
+	<Point>
+		<coordinates>10.123960170189392,54.318456299999994</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Breiter Weg 4-6</name>
+		<description> -> Ehrlich, Josef</description>
+	<Point>
+		<coordinates>10.135872,54.3299533</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Holtenauer Straße 122</name>
+		<description> -> Halbersberg, Josef -> Halbersberg, geb. Margulies, Paula</description>
+	<Point>
+		<coordinates>10.1338382,54.3371536</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Papenkamp 7</name>
+		<description> -> David, Siegfried -> Heller, Clara</description>
+	<Point>
+		<coordinates>10.12473086314189,54.3161394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Schulstraße 7</name>
+		<description> -> Meyer, geb. Goldschmidt, Ida</description>
+	<Point>
+		<coordinates>10.1443882,54.3114391</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Flämische Straße 22a</name>
+		<description> -> Berghoff, Felix</description>
+	<Point>
+		<coordinates>10.142027149473195,54.3222284</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Feldstraße 7</name>
+		<description> -> Ascher, Fritz -> Ascher, geb. Levy, Minna</description>
+	<Point>
+		<coordinates>10.138814,54.3296486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Küterstraße 1</name>
+		<description> -> Nagelberg, Dora -> Nagelberg, Esther</description>
+	<Point>
+		<coordinates>10.138088,54.323408</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Reeperbahn 9</name>
+		<description> -> Löhndorf, geb. Ehrlich, Rebecca</description>
+	<Point>
+		<coordinates>10.141944044557672,54.3082868</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Rendsburger Landstr.143 </name>
+		<description> -> Dittmann, Willi</description>
+	<Point>
+		<coordinates>10.0981243,54.3008863</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Feldstraße 6</name>
+		<description> -> Friedmann, geb. Ehrlich, Lina</description>
+	<Point>
+		<coordinates>10.139180857144378,54.32916275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Schaßstraße 4</name>
+		<description> -> Peterseil, geb. Biedermann, Hudes Nades -> Peterseil, Shimon</description>
+	<Point>
+		<coordinates>10.12523038427958,54.31828415</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Augustenstraße 66 </name>
+		<description> -> Wegener, Heinrich</description>
+	<Point>
+		<coordinates>10.1508155,54.3136279</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Küterstraße 20-24</name>
+		<description> -> Brock, Recha -> Brock, Max</description>
+	<Point>
+		<coordinates>10.1382817,54.323441</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Stormarnstraße 21</name>
+		<description> -> Rasch, Heinrich</description>
+	<Point>
+		<coordinates>10.124460337006758,54.305307150000004</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Muhliusstraße 8</name>
+		<description> -> Lewin, geb. Hirsch, Rosa</description>
+	<Point>
+		<coordinates>10.1301718,54.324964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Waisenhofstraße 1b </name>
+		<description> -> Trieger, Arthur -> Trieger, Rubin -> Trieger, geb. Hojda, Sara</description>
+	<Point>
+		<coordinates>10.1317641,54.321473</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Schulstraße 22</name>
+		<description> -> Simon, Karl</description>
+	<Point>
+		<coordinates>10.1451994,54.3134097</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Herzog-Friedrich-Straße 72</name>
+		<description> -> Winzelberg, Abraham Bernhard -> Winzelberg, Mila Sara -> Winzelberg, geb. Münz, Sara -> Winzelberg, Jehuda Zivi Hersch</description>
+	<Point>
+		<coordinates>10.126568875074927,54.3188294</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Klopstockstraße 1</name>
+		<description> -> Winzelberg, geb. Mandelberger, Sara Rosa -> Winzelberg, Simon</description>
+	<Point>
+		<coordinates>10.12735228961039,54.3256893</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Schülperbaum 14</name>
+		<description> -> Berger, geb. Fischler, Hinda -> Berger, Salomon</description>
+	<Point>
+		<coordinates>10.1286382,54.3191628</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Pickertstraße 2a</name>
+		<description> -> Cohn, Erich</description>
+	<Point>
+		<coordinates>10.1549445,54.3122762</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Möllingstraße 20</name>
+		<description> -> Mayer, Salomon</description>
+	<Point>
+		<coordinates>10.124343373888887,54.32318765</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Sophienblatt 11</name>
+		<description> -> Feldmann, geb. Schüler, Pauline</description>
+	<Point>
+		<coordinates>10.13285972514706,54.317352650000004</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Forstweg 42</name>
+		<description> -> Spiegel, Wilhelm</description>
+	<Point>
+		<coordinates>10.141826774722993,54.33823825</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Hecktstraße 3</name>
+		<description> -> Bräuer, geb. Gautsch, Hedwig -> Bräuer, Alfred</description>
+	<Point>
+		<coordinates>10.173601849999997,54.3967456</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Möllingstraße 26</name>
+		<description> -> Henningsen, Waldemar</description>
+	<Point>
+		<coordinates>10.1234797526701,54.3234639</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Knooper Weg 46</name>
+		<description> -> Hirsch, Dora</description>
+	<Point>
+		<coordinates>10.1278988,54.32611</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Geibelallee 18</name>
+		<description> -> Bandholz, geb. Roos, Elisabeth</description>
+	<Point>
+		<coordinates>10.112887549999993,54.326431400000004</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Dorotheenstraße 4</name>
+		<description> -> Schulz, Paul</description>
+	<Point>
+		<coordinates>10.1192947,54.3042005</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Langenbeckstraße 45</name>
+		<description> -> Verdieck, Willy</description>
+	<Point>
+		<coordinates>10.108962,54.322859</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Schloßstraße 14 </name>
+		<description> -> Levy, Philipp -> Levy, Jacob -> Levy, Nathan -> Levy, Recha</description>
+	<Point>
+		<coordinates>10.1417379,54.3238067</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Jungfernstieg 7</name>
+		<description> -> Klapper, Bernhard -> Klapper, geb. Klapper, Esther -> Klapper, Hermann -> Klapper, Isidor -> Klapper, Jonny</description>
+	<Point>
+		<coordinates>10.12582935923141,54.32383105</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Niemannsweg 48</name>
+		<description> -> Leven, Hein-Siegmund</description>
+	<Point>
+		<coordinates>10.14695255,54.336416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Lerchenstraße 18</name>
+		<description> -> Wiesner, geb. Heller, Cirel -> Wiesner, Charlotte -> Wiesner, Regina Gerda Ruth -> Wiesner, Selma Ruth -> Wiesner, Josef Hersch</description>
+	<Point>
+		<coordinates>10.1289647,54.3170952</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Gartenstraße 25</name>
+		<description> -> Becker, Feiwel -> Becker, Rosa -> Becker, Joel Julius</description>
+	<Point>
+		<coordinates>10.1311338,54.3269866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Knooper Weg 140</name>
+		<description> -> Nagel, geb. Holländer, Ida</description>
+	<Point>
+		<coordinates>10.1294591,54.3340184</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Iltisstraße 36</name>
+		<description> -> Cohn, Emil -> Cohn, geb. Gerson, Henriette -> Schüratzki, geb. Cohn, Minna</description>
+	<Point>
+		<coordinates>10.147359636769469,54.30889115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Holtenauer Straße 26 </name>
+		<description> -> Bandholz, Ernst</description>
+	<Point>
+		<coordinates>10.1324642,54.3303168</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Bülowstraße 3</name>
+		<description> -> Leipziger, geb. Eisack, Sophie</description>
+	<Point>
+		<coordinates>10.142670349999996,54.3429297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Pickertstraße 2</name>
+		<description> -> Cohn, Willibald K. -> Cohn, geb. Feilmann, Henni</description>
+	<Point>
+		<coordinates>10.152850000000004,54.31292195</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Gutenbergstraße 7</name>
+		<description> -> Cohn, geb. Czarna, Hilde -> Cohn, Arnold -> Cohn, Friedel -> Cohn, Uriel -> Cohn, geb. Czarna, Sabine</description>
+	<Point>
+		<coordinates>10.126697607638121,54.33126325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Gartenstraße 20</name>
+		<description> -> Lewin, Arthur</description>
+	<Point>
+		<coordinates>10.1308635,54.3264832</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Christian-Kruse-Straße 14</name>
+		<description> -> Meier, Hans</description>
+	<Point>
+		<coordinates>10.118481771743454,54.333496249999996</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Norddeutsche Straße 18</name>
+		<description> -> Schmidt, Friedrich</description>
+	<Point>
+		<coordinates>10.145698047802695,54.31533045</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Esmarchstraße 20</name>
+		<description> -> Bruck, Vera -> Bruck, geb. Henoch, Elisabeth -> Bruck, Dr. Wilhelm Ludwig</description>
+	<Point>
+		<coordinates>10.141405568698126,54.34179385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+		<name>Schillerstraße 1</name>
+		<description> -> Hurtig, Alwin -> Hurtig, Franz Josef -> Hurtig, Helene</description>
+	<Point>
+		<coordinates>10.121615279022851,54.3259491</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>

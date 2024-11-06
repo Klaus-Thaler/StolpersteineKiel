@@ -1,0 +1,1573 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.138947020467437,
+          54.3251838
+        ]
+      },
+      "properties": {
+        "name": "Jensendamm 6 ",
+        "description": " -> Mainzer, Bruno Max"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1319491,
+          54.3317895
+        ]
+      },
+      "properties": {
+        "name": "Jungmannstraße 70 a",
+        "description": " -> Feldmann, Mendel -> Feldmann, geb. Weber-Lakritz, Chaja -> Feldmann, Dina -> Feldmann, Otto -> Feldmann, Zita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12661864147468,
+          54.30949635
+        ]
+      },
+      "properties": {
+        "name": "Sophienblatt 75",
+        "description": " -> Hahn, Hugo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.128609628571432,
+          54.317705000000004
+        ]
+      },
+      "properties": {
+        "name": "Königsweg 1",
+        "description": " -> Karlsberg, geb. Berghoff, Regina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.132044024107616,
+          54.33561275
+        ]
+      },
+      "properties": {
+        "name": "Waitzstraße 58 a ",
+        "description": " -> Henning, Herbert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1303655,
+          54.3356582
+        ]
+      },
+      "properties": {
+        "name": "Knooper Weg 48a",
+        "description": " -> Metzger, geb. Krapp, Ida -> Metzger, Isaak -> Metzger, Josef Baruch -> Metzger, Leo -> Metzger, Toni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.128106648975614,
+          54.335809049999995
+        ]
+      },
+      "properties": {
+        "name": "Waitzstraße 93",
+        "description": " -> Bauer, Harry-Heinz -> Lüddeke, Ingeborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.130544202023412,
+          54.3250457
+        ]
+      },
+      "properties": {
+        "name": "Muhliusstraße 77a",
+        "description": " -> Fischer, Malie -> Fischer, Shirley Lotte -> Fischer, Recha -> Fischer, Eduard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.124400601816507,
+          54.30386115
+        ]
+      },
+      "properties": {
+        "name": "Theodor-Heuss-Ring 79",
+        "description": " -> Goldstein, Wilhelm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.127915575252526,
+          54.340187400000005
+        ]
+      },
+      "properties": {
+        "name": "Rankestraße 1",
+        "description": " -> Frank, Benzion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1336521,
+          54.328928
+        ]
+      },
+      "properties": {
+        "name": "Preußerstraße 7",
+        "description": " -> Cohn, Julius -> Cohn, Selma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.141415751519794,
+          54.3242144
+        ]
+      },
+      "properties": {
+        "name": "Dänische Straße 36",
+        "description": " -> Friedländer, geb. Stern, Franziska -> Friedländer, Georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1382817,
+          54.323441
+        ]
+      },
+      "properties": {
+        "name": "Küterstraße 28",
+        "description": " -> Bachner, David"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.111761162030586,
+          54.3214896
+        ]
+      },
+      "properties": {
+        "name": "Westring 202",
+        "description": " -> Nielsen, Oskar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13580885,
+          54.33685925
+        ]
+      },
+      "properties": {
+        "name": "Gerhardstraße 64 ",
+        "description": " -> Theede, Heinrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.105862612583568,
+          54.2979922
+        ]
+      },
+      "properties": {
+        "name": "Hamburger Chaussee 199",
+        "description": " -> Rosenstein, Emanuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1320903,
+          54.3278066
+        ]
+      },
+      "properties": {
+        "name": "Wilhelminenstraße 27",
+        "description": " -> Schnell, Moritz -> Schnell, Else -> Schnell, Herta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1317113,
+          54.3311933
+        ]
+      },
+      "properties": {
+        "name": "Holtenauer Straße 37",
+        "description": " -> Wronker, Gertrud"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.125062621358008,
+          54.3216281
+        ]
+      },
+      "properties": {
+        "name": "Kronshagener Weg 12",
+        "description": " -> Domowitz, Lotte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11834,
+          54.3325262
+        ]
+      },
+      "properties": {
+        "name": "Gutenbergstraße 66",
+        "description": " -> Wysocki, Max"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.10999674821641,
+          54.3330413
+        ]
+      },
+      "properties": {
+        "name": "Eichhofstraße 12",
+        "description": " -> Eggerstedt, Otto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1299125,
+          54.329115
+        ]
+      },
+      "properties": {
+        "name": "Mittelstraße 27",
+        "description": " -> Hirsch, Mendel Harry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.132475980333332,
+          54.33057825
+        ]
+      },
+      "properties": {
+        "name": "Holtenauer Straße 32",
+        "description": " -> Pietsch, Anneliese -> Pietsch, Emil -> Pietsch, Roseliese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1411333,
+          54.3241401
+        ]
+      },
+      "properties": {
+        "name": "Dänische Straße 30",
+        "description": " -> Ostwald, Sophie -> Ostwald, Toni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1309375,
+          54.3214184
+        ]
+      },
+      "properties": {
+        "name": "Kleiner Kuhberg 26",
+        "description": " -> Czapnik, Mendel -> Markus-Bard, geb. Bradspies, Anna -> Markus, Osias"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13443082469605,
+          54.33184915
+        ]
+      },
+      "properties": {
+        "name": "Jungmannstraße 28",
+        "description": " -> Voss, geb. Lippmann, Helene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14297731532314,
+          54.3421599
+        ]
+      },
+      "properties": {
+        "name": "Forstweg 81",
+        "description": " -> Fabian, Dr. Max"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.146597854516349,
+          54.30921475
+        ]
+      },
+      "properties": {
+        "name": "Kaiserstraße 73",
+        "description": " -> Karlsberg, Rolf Abel Wilhelm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.127785433243318,
+          54.319534399999995
+        ]
+      },
+      "properties": {
+        "name": "Sandkuhle 5",
+        "description": " -> Ebner, geb. Locker, Cenia -> Ebner, Kuno -> Ebner, Cäcilie -> Ebner, Leo -> Ebner, Martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.137434,
+          54.3201069
+        ]
+      },
+      "properties": {
+        "name": "Hafenstraße 8",
+        "description": " -> Engel, David Theodor -> Engel, geb. Meier, Minna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1255255,
+          54.3213958
+        ]
+      },
+      "properties": {
+        "name": "Kronshagener Weg 4",
+        "description": " -> Buchen, geb. Landesmann, Rosa -> Buchen, Isaak -> Buchen, Edmund -> Buchen, Manfred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13288784807823,
+          54.33701215
+        ]
+      },
+      "properties": {
+        "name": "Holtenauer Straße 103",
+        "description": " -> Albers, Heinrich -> Salomon-Salberg, Rolf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12640881497175,
+          54.3161822
+        ]
+      },
+      "properties": {
+        "name": "Ringstraße 36",
+        "description": " -> Sandbank, geb. Bombach, Amalie -> Sandbank, Frieda -> Sandbank, Hermann -> Sandbank, Fanny -> Sandbank, Betty -> Sandbank, Wolf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1626922,
+          54.3026593
+        ]
+      },
+      "properties": {
+        "name": "Preetzer Straße 212",
+        "description": " -> Feybusch, Adolf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1244848788633,
+          54.32503035
+        ]
+      },
+      "properties": {
+        "name": "Damperhofstraße 21",
+        "description": " -> Grünbaum, geb. Ehrmann, Regina -> Grünbaum, Wolf Abraham -> Nagelberg, Leo -> Nagelberg, Anni -> Nagelberg, Alfred -> Ehrmann, geb. Feldmann, Rahel -> Reiss, geb. Nagelberg, Paula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1371846,
+          54.3241337
+        ]
+      },
+      "properties": {
+        "name": "Faulstraße 41",
+        "description": " -> Hirsch, Wolff Willy -> Hirsch, Hedwig Helene -> Hirsch, Wolf -> Hirsch, Heinz -> Hirsch, Martin -> Hirsch, Hertha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1399686,
+          54.3216932
+        ]
+      },
+      "properties": {
+        "name": "Eggerstedtstraße 1",
+        "description": " -> Marienfeld, Albrecht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1256487,
+          54.3206619
+        ]
+      },
+      "properties": {
+        "name": "Adelheidstraße 26 ",
+        "description": " -> Offen, Hanna -> Glanz, Joachim -> Glanz, Markus -> Offen, geb. Appelberg, Taube -> Glanz, geb. Buchen, Esther -> Offen, Naftali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1396313,
+          54.33721325
+        ]
+      },
+      "properties": {
+        "name": "Feldstraße 55a",
+        "description": " -> Adler, Erika -> Fiebelmann, geb. Adler, Ruth -> Adler, Lotti -> Adler, geb. Einhorn, Ida -> Adler, Max"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1390759,
+          54.3433905
+        ]
+      },
+      "properties": {
+        "name": "Yorckstraße 1a",
+        "description": " -> Abramowicz, Leon -> Abramowicz, Else -> Abramowicz, Minna Lotte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1418997,
+          54.3214681
+        ]
+      },
+      "properties": {
+        "name": "Wall 68 ",
+        "description": " -> Heuck, Christian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.110381762464723,
+          54.3056052
+        ]
+      },
+      "properties": {
+        "name": "Rendsburger Landstraße 57",
+        "description": " -> Guttmann, Erich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.129001946142946,
+          54.32327285
+        ]
+      },
+      "properties": {
+        "name": "Waisenhofstraße 34",
+        "description": " -> Lieser, Ruchla -> Metzger, Adolf Isidor -> Lieser, geb. Strenger, Frimeta -> Metzger, geb. Klapper, Frymeta -> Metzger, Hermann"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.128576750000008,
+          54.323181649999995
+        ]
+      },
+      "properties": {
+        "name": "Waisenhofstraße 39",
+        "description": " -> Hansen, Minna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.134223992335095,
+          54.329378649999995
+        ]
+      },
+      "properties": {
+        "name": "Preußerstraße 10",
+        "description": " -> Bertenthal, Simon -> Bertenthal, Martha -> Bertenthal, Ruth -> Bertenthal, geb. Berghoff, Sophie -> Bertenthal, David"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.149078871054126,
+          54.31147985
+        ]
+      },
+      "properties": {
+        "name": "Stoschstraße 1",
+        "description": " -> Haller-Munck, Hans-Ulrich -> Haller-Munck, geb. Munck, Paula -> Haller-Munck, Dr. Heinrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.148582712459984,
+          54.34257065
+        ]
+      },
+      "properties": {
+        "name": "Niemannsweg 133",
+        "description": " -> Liebreich, Aenne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.149699743009023,
+          54.33903085
+        ]
+      },
+      "properties": {
+        "name": "Bartelsallee 4",
+        "description": " -> Stier-Somlo, Klara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.136901614063039,
+          54.3291766
+        ]
+      },
+      "properties": {
+        "name": "Koldingstraße 4",
+        "description": " -> Eppstein, Bernhard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.123656942232355,
+          54.321924
+        ]
+      },
+      "properties": {
+        "name": "Kronshagener Weg 14 ",
+        "description": " -> Monheit, Pinkas -> Grubner, Simon -> Kurz, Grete -> Grubner, geb. Scharf, Debora -> Monheit, Mirla -> Grubner, Dina -> Grubner, Josef -> Monheit, geb. Grubner, Sarah -> Kurz, geb. Panzanowa, Pauline -> Grubner, Shaja A. -> Grubner, geb. Zollmann, Regina Ryfka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1323835,
+          54.3293834
+        ]
+      },
+      "properties": {
+        "name": "Holtenauer Straße 13",
+        "description": " -> Steilberger, Dr. Carl Martin -> Steilberger, geb. Zuchholdt, Marie Charlotte Eveline"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.130227399999997,
+          54.33135795
+        ]
+      },
+      "properties": {
+        "name": "Annenstraße 61",
+        "description": " -> Schlumper, Adolf -> Schlumper, Josef -> Schlumper, Samuel -> Schlumper, geb. Ruj, Rosa -> Schlumper, Karl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1322581,
+          54.3294843
+        ]
+      },
+      "properties": {
+        "name": "Holtenauer Straße 15",
+        "description": " -> Daltrop, Joseph"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1273558,
+          54.3112984
+        ]
+      },
+      "properties": {
+        "name": "Hummelwiese 1-3",
+        "description": " -> Rumpf, geb. Hertz, Erna Tana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.125474497250122,
+          54.32033095
+        ]
+      },
+      "properties": {
+        "name": "Adelheidstraße 22",
+        "description": " -> Landesmann, Arthur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.142753203330367,
+          54.3698975
+        ]
+      },
+      "properties": {
+        "name": "Kanalstraße 41",
+        "description": " -> Mahlstedt, Horst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.119453420463884,
+          54.32320815
+        ]
+      },
+      "properties": {
+        "name": "Kronshagener Weg 37",
+        "description": " -> Lenkowicz, Abraham Samuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1108643,
+          54.3224224
+        ]
+      },
+      "properties": {
+        "name": "Langenbeckstraße 17",
+        "description": " -> Richter, Karl-Friedrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1379146,
+          54.344345
+        ]
+      },
+      "properties": {
+        "name": "Scharnhorststraße 17",
+        "description": " -> Blumenthal, geb. Cahn, Irma -> Blumenthal, Isidor -> Berghoff, geb. Blumenthal, Liselotte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.122711487862766,
+          54.3240254
+        ]
+      },
+      "properties": {
+        "name": "Sternstraße 16",
+        "description": " -> Fraenkel, geb. Gutwirt, Taube -> Wilkenfeld, Arnold -> Wilkenfeld, geb. Fraenkel, Bertha -> Wilkenfeld, Kalman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1444278,
+          54.3082054
+        ]
+      },
+      "properties": {
+        "name": "Kaiserstraße 92",
+        "description": " -> Wilke, Wilhelm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.132535,
+          54.3333278
+        ]
+      },
+      "properties": {
+        "name": "Holtenauer Straße 59a",
+        "description": " -> Schumm, Dr. Friedrich -> Schumm, geb. Moll, Hedwig Martha -> Schumm, Georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.125468705258829,
+          54.32097345
+        ]
+      },
+      "properties": {
+        "name": "Exerzierplatz 25",
+        "description": " -> Wallach, geb. Tichauer, Dorothea -> Wallach, Hugo -> Wallach, Ursula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11377031875297,
+          54.3235619
+        ]
+      },
+      "properties": {
+        "name": "Griesingerstraße 4",
+        "description": " -> Raabe, Walter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13077949153212,
+          54.32150465
+        ]
+      },
+      "properties": {
+        "name": "Kleiner Kuhberg 28 ",
+        "description": " -> Weber, Alter -> Weber, geb. Lakritz, Mirel -> Weber-Lakritz, Simcha -> Weber, Schoje Oskar -> Winzelberg, Samuel -> Winzelberg, geb. Otter, Chana -> Winzelberg, Rosa -> Winzelberg, Frieda -> Winzelberg, Josef -> Weidmann, David -> Weidmann, geb. Weber-Lakritz, Erna Recha -> Weidmann, Leo -> Weidmann, Arnold -> Weidmann, Ruth -> Weidmann, Rosa -> Weitz, geb. Stempel, Golda -> Weitz, Minna -> Weitz, Leo -> Weitz, Jakob"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.123960170189392,
+          54.318456299999994
+        ]
+      },
+      "properties": {
+        "name": "Herzog-Friedrich-Straße 93",
+        "description": " -> Engel, Herbert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.135872,
+          54.3299533
+        ]
+      },
+      "properties": {
+        "name": "Breiter Weg 4-6",
+        "description": " -> Ehrlich, Josef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1338382,
+          54.3371536
+        ]
+      },
+      "properties": {
+        "name": "Holtenauer Straße 122",
+        "description": " -> Halbersberg, Josef -> Halbersberg, geb. Margulies, Paula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12473086314189,
+          54.3161394
+        ]
+      },
+      "properties": {
+        "name": "Papenkamp 7",
+        "description": " -> David, Siegfried -> Heller, Clara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1443882,
+          54.3114391
+        ]
+      },
+      "properties": {
+        "name": "Schulstraße 7",
+        "description": " -> Meyer, geb. Goldschmidt, Ida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.142027149473195,
+          54.3222284
+        ]
+      },
+      "properties": {
+        "name": "Flämische Straße 22a",
+        "description": " -> Berghoff, Felix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.138814,
+          54.3296486
+        ]
+      },
+      "properties": {
+        "name": "Feldstraße 7",
+        "description": " -> Ascher, Fritz -> Ascher, geb. Levy, Minna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.138088,
+          54.323408
+        ]
+      },
+      "properties": {
+        "name": "Küterstraße 1",
+        "description": " -> Nagelberg, Dora -> Nagelberg, Esther"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.141944044557672,
+          54.3082868
+        ]
+      },
+      "properties": {
+        "name": "Reeperbahn 9",
+        "description": " -> Löhndorf, geb. Ehrlich, Rebecca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0981243,
+          54.3008863
+        ]
+      },
+      "properties": {
+        "name": "Rendsburger Landstr.143 ",
+        "description": " -> Dittmann, Willi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.139180857144378,
+          54.32916275
+        ]
+      },
+      "properties": {
+        "name": "Feldstraße 6",
+        "description": " -> Friedmann, geb. Ehrlich, Lina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12523038427958,
+          54.31828415
+        ]
+      },
+      "properties": {
+        "name": "Schaßstraße 4",
+        "description": " -> Peterseil, geb. Biedermann, Hudes Nades -> Peterseil, Shimon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1508155,
+          54.3136279
+        ]
+      },
+      "properties": {
+        "name": "Augustenstraße 66 ",
+        "description": " -> Wegener, Heinrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1382817,
+          54.323441
+        ]
+      },
+      "properties": {
+        "name": "Küterstraße 20-24",
+        "description": " -> Brock, Recha -> Brock, Max"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.124460337006758,
+          54.305307150000004
+        ]
+      },
+      "properties": {
+        "name": "Stormarnstraße 21",
+        "description": " -> Rasch, Heinrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1301718,
+          54.324964
+        ]
+      },
+      "properties": {
+        "name": "Muhliusstraße 8",
+        "description": " -> Lewin, geb. Hirsch, Rosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1317641,
+          54.321473
+        ]
+      },
+      "properties": {
+        "name": "Waisenhofstraße 1b ",
+        "description": " -> Trieger, Arthur -> Trieger, Rubin -> Trieger, geb. Hojda, Sara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1451994,
+          54.3134097
+        ]
+      },
+      "properties": {
+        "name": "Schulstraße 22",
+        "description": " -> Simon, Karl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.126568875074927,
+          54.3188294
+        ]
+      },
+      "properties": {
+        "name": "Herzog-Friedrich-Straße 72",
+        "description": " -> Winzelberg, Abraham Bernhard -> Winzelberg, Mila Sara -> Winzelberg, geb. Münz, Sara -> Winzelberg, Jehuda Zivi Hersch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12735228961039,
+          54.3256893
+        ]
+      },
+      "properties": {
+        "name": "Klopstockstraße 1",
+        "description": " -> Winzelberg, geb. Mandelberger, Sara Rosa -> Winzelberg, Simon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1286382,
+          54.3191628
+        ]
+      },
+      "properties": {
+        "name": "Schülperbaum 14",
+        "description": " -> Berger, geb. Fischler, Hinda -> Berger, Salomon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1549445,
+          54.3122762
+        ]
+      },
+      "properties": {
+        "name": "Pickertstraße 2a",
+        "description": " -> Cohn, Erich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.124343373888887,
+          54.32318765
+        ]
+      },
+      "properties": {
+        "name": "Möllingstraße 20",
+        "description": " -> Mayer, Salomon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13285972514706,
+          54.317352650000004
+        ]
+      },
+      "properties": {
+        "name": "Sophienblatt 11",
+        "description": " -> Feldmann, geb. Schüler, Pauline"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.141826774722993,
+          54.33823825
+        ]
+      },
+      "properties": {
+        "name": "Forstweg 42",
+        "description": " -> Spiegel, Wilhelm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.173601849999997,
+          54.3967456
+        ]
+      },
+      "properties": {
+        "name": "Hecktstraße 3",
+        "description": " -> Bräuer, geb. Gautsch, Hedwig -> Bräuer, Alfred"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1234797526701,
+          54.3234639
+        ]
+      },
+      "properties": {
+        "name": "Möllingstraße 26",
+        "description": " -> Henningsen, Waldemar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1278988,
+          54.32611
+        ]
+      },
+      "properties": {
+        "name": "Knooper Weg 46",
+        "description": " -> Hirsch, Dora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.112887549999993,
+          54.326431400000004
+        ]
+      },
+      "properties": {
+        "name": "Geibelallee 18",
+        "description": " -> Bandholz, geb. Roos, Elisabeth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1192947,
+          54.3042005
+        ]
+      },
+      "properties": {
+        "name": "Dorotheenstraße 4",
+        "description": " -> Schulz, Paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108962,
+          54.322859
+        ]
+      },
+      "properties": {
+        "name": "Langenbeckstraße 45",
+        "description": " -> Verdieck, Willy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1417379,
+          54.3238067
+        ]
+      },
+      "properties": {
+        "name": "Schloßstraße 14 ",
+        "description": " -> Levy, Philipp -> Levy, Jacob -> Levy, Nathan -> Levy, Recha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12582935923141,
+          54.32383105
+        ]
+      },
+      "properties": {
+        "name": "Jungfernstieg 7",
+        "description": " -> Klapper, Bernhard -> Klapper, geb. Klapper, Esther -> Klapper, Hermann -> Klapper, Isidor -> Klapper, Jonny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14695255,
+          54.336416
+        ]
+      },
+      "properties": {
+        "name": "Niemannsweg 48",
+        "description": " -> Leven, Hein-Siegmund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1289647,
+          54.3170952
+        ]
+      },
+      "properties": {
+        "name": "Lerchenstraße 18",
+        "description": " -> Wiesner, geb. Heller, Cirel -> Wiesner, Charlotte -> Wiesner, Regina Gerda Ruth -> Wiesner, Selma Ruth -> Wiesner, Josef Hersch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1311338,
+          54.3269866
+        ]
+      },
+      "properties": {
+        "name": "Gartenstraße 25",
+        "description": " -> Becker, Feiwel -> Becker, Rosa -> Becker, Joel Julius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1294591,
+          54.3340184
+        ]
+      },
+      "properties": {
+        "name": "Knooper Weg 140",
+        "description": " -> Nagel, geb. Holländer, Ida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.147359636769469,
+          54.30889115
+        ]
+      },
+      "properties": {
+        "name": "Iltisstraße 36",
+        "description": " -> Cohn, Emil -> Cohn, geb. Gerson, Henriette -> Schüratzki, geb. Cohn, Minna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1324642,
+          54.3303168
+        ]
+      },
+      "properties": {
+        "name": "Holtenauer Straße 26 ",
+        "description": " -> Bandholz, Ernst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.142670349999996,
+          54.3429297
+        ]
+      },
+      "properties": {
+        "name": "Bülowstraße 3",
+        "description": " -> Leipziger, geb. Eisack, Sophie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.152850000000004,
+          54.31292195
+        ]
+      },
+      "properties": {
+        "name": "Pickertstraße 2",
+        "description": " -> Cohn, Willibald K. -> Cohn, geb. Feilmann, Henni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.126697607638121,
+          54.33126325
+        ]
+      },
+      "properties": {
+        "name": "Gutenbergstraße 7",
+        "description": " -> Cohn, geb. Czarna, Hilde -> Cohn, Arnold -> Cohn, Friedel -> Cohn, Uriel -> Cohn, geb. Czarna, Sabine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1308635,
+          54.3264832
+        ]
+      },
+      "properties": {
+        "name": "Gartenstraße 20",
+        "description": " -> Lewin, Arthur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.118481771743454,
+          54.333496249999996
+        ]
+      },
+      "properties": {
+        "name": "Christian-Kruse-Straße 14",
+        "description": " -> Meier, Hans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.145698047802695,
+          54.31533045
+        ]
+      },
+      "properties": {
+        "name": "Norddeutsche Straße 18",
+        "description": " -> Schmidt, Friedrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.141405568698126,
+          54.34179385
+        ]
+      },
+      "properties": {
+        "name": "Esmarchstraße 20",
+        "description": " -> Bruck, Vera -> Bruck, geb. Henoch, Elisabeth -> Bruck, Dr. Wilhelm Ludwig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.121615279022851,
+          54.3259491
+        ]
+      },
+      "properties": {
+        "name": "Schillerstraße 1",
+        "description": " -> Hurtig, Alwin -> Hurtig, Franz Josef -> Hurtig, Helene"
+      }
+    }
+  ]
+}

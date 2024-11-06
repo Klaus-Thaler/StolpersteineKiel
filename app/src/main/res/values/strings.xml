@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Stolper Steine Kiel Foss</string>
+    <string name="the_location_could_not_be_identified">The location could not be identified..\n</string>
+    <string name="this_app_is_for_android_8_and_higher">This app is for android 8 and higher.</string>
+    <string name="marker_title">Stolperstein</string>
+    <string name="location">Location</string>
+    <string name="hereiam">Here I am.</string>
+    <string name="submit">#FFFFFF</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="nie_wieder_ist_jetzt" translatable="false"> NIE WIEDER IST JETZT </string>
+</resources>
